@@ -5,7 +5,7 @@
   "mobile": {
     "enabled": true,
     "versionCode": 2,
-    "versionName": "1.1",
+    "versionName": "1.0",
     "apkUrl": "",
     "forceUpdate": false,
     "title": "Update Available",
@@ -20,7 +20,7 @@
   "tv": {
     "enabled": true,
     "versionCode": 2,
-    "versionName": "1.1",
+    "versionName": "1.0",
     "apkUrl": "",
     "forceUpdate": false,
     "title": "Update Available",
