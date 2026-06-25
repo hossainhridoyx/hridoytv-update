@@ -1,35 +1,41 @@
 {
   "status": true,
   "apiVersion": "1.1",
-  "lastUpdated": "2026-06-25T00:00:00Z",
+  "lastUpdated": "2026-06-26T00:00:00Z",
+
+
   "mobile": {
     "enabled": true,
-    "versionCode": 2,
+    "versionCode": 1,
     "versionName": "1.1",
-    "apkUrl": "https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/HridoyTV%201.0.apk",
+    "apkUrl": "https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/New%20HridoyTV%20App/HridoyTV%201.1.apk",
     "forceUpdate": true,
-    "title": "Update Available",
-    "message": "A new version of HridoyTV is available.",
-    "releaseDate": "2026-06-25",
-    "fileSize": "",
+    "title": "Update Available ✅",
+    "message": "A new version of HridoyTV is available. Please update now.",
+    "releaseDate": "2026-06-26",
+    "fileSize": "107KB",
     "minAndroid": "5.0",
     "changelog": [
-      "Initial release."
+ "Bug fixes and performance improvements.",
+  "Improved app stability."
     ]
   },
+
+
   "tv": {
     "enabled": true,
-    "versionCode": 2,
-    "versionName": "1.5",
-    "apkUrl": "https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/HridoyTV%201.0.apk",
+    "versionCode": 1,
+    "versionName": "1.1",
+    "apkUrl": "https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/New%20HridoyTV%20App/HridoyTV%20Live%201.1.apk",
     "forceUpdate": true,
-    "title": "Update Available",
-    "message": "A new version of HridoyTV TV is available.",
-    "releaseDate": "2026-06-25",
-    "fileSize": "",
+    "title": "Update Available ✅",
+    "message": "A new version of HridoyTV is available. Please update now.",
+    "releaseDate": "2026-06-26",
+    "fileSize": "107KB",
     "minAndroid": "5.0",
     "changelog": [
-      "Initial release."
+   "Bug fixes and performance improvements.",
+  "Improved app stability."
     ]
   }
 }
