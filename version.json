@@ -5,7 +5,7 @@
   "mobile": {
     "enabled": true,
     "versionCode": 2,
-    "versionName": "1.0",
+    "versionName": "1.5",
     "apkUrl": "",
     "forceUpdate": false,
     "title": "Update Available",
