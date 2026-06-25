@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Android Studio
+.gradle/
+.idea/
+build/
+
+# Logs
+*.log
