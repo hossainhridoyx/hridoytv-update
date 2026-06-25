@@ -6,7 +6,7 @@
     "enabled": true,
     "versionCode": 1,
     "versionName": "1.0",
-    "apkUrl": "https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%201.0.apk",
+    "apkUrl": "https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/HridoyTV%201.0.apk",
     "forceUpdate": false,
     "title": "Update Available",
     "message": "A new version of HridoyTV is available.",
