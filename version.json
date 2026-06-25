@@ -5,7 +5,7 @@
   "mobile": {
     "enabled": true,
     "versionCode": 2,
-    "versionName": "1.2",
+    "versionName": "1.1",
     "apkUrl": "https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/HridoyTV%201.0.apk",
     "forceUpdate": true,
     "title": "Update Available",
